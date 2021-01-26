@@ -8,7 +8,7 @@ package com.luoshenshen.java;
 public class MyAlgorithm {
 
 	/*
-	 * Ñ¡ÔñÅÅĞò
+	 * é€‰æ‹©æ’åº
 	 */
 	public void MySelectionSort(int array[]) {
 		
@@ -33,7 +33,7 @@ public class MyAlgorithm {
 	}
 	
 	/*
-	 * Ã°ÅİÅÅĞò
+	 * å†’æ³¡æ’åº
 	 */
 	public void MyBuddleSort(int array[]) {
 		
@@ -50,7 +50,7 @@ public class MyAlgorithm {
 	}
 	
 	/*
-	 * ²åÈëÅÅĞò
+	 * æ’å…¥æ’åº
 	 */
 	public void MyInsertSort(int array[]) {
 		
@@ -67,7 +67,7 @@ public class MyAlgorithm {
 	}
 	
 	/*
-	 * Ï£¶ûÅÅĞò
+	 * å¸Œå°”æ’åº
 	 */
 	public void MyShellSort(int array[]) {
 		
@@ -95,7 +95,7 @@ public class MyAlgorithm {
 	}
 	
 	/*
-	 * ¹é²¢¹ı³Ì
+	 * å½’å¹¶è¿‡ç¨‹
 	 */
 	public void MyMerge(int array[],int left,int right,int RB) {
 		
@@ -128,7 +128,7 @@ public class MyAlgorithm {
 	}
 	
 	/*
-	 * ¹é²¢ÅÅĞò
+	 * å½’å¹¶æ’åº
 	 */
 	public void MyMergeSort(int array[],int left,int right) {
 		
@@ -144,7 +144,7 @@ public class MyAlgorithm {
 	}
 	
 	/*
-	 * ¿ìËÙ¹ı³Ì
+	 * å¿«é€Ÿè¿‡ç¨‹
 	 */
 	public int MyQuick(int array[],int left,int right) {
 		
@@ -177,7 +177,7 @@ public class MyAlgorithm {
 	}
 	
 	/*
-	 * ¿ìËÙÅÅĞò
+	 * å¿«é€Ÿæ’åº
 	 */
 	public void MyQuickSort(int array[],int left,int right) {
 		
@@ -191,7 +191,7 @@ public class MyAlgorithm {
 	}
 	
 	/*
-	 * ¼ÆÊıÅÅĞò
+	 * è®¡æ•°æ’åº
 	 */
 	public void MyCountSort(int array[]) {
 	
