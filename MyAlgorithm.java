@@ -1,4 +1,4 @@
-package com.luoshenshen.java;
+package edu.luoshenshen.javasort;
 
 /*
  * Project: MyAlgorithm
